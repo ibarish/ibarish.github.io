@@ -6,29 +6,29 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hello! I’m Barış Samed. Senior Full Stack Developer from Turkey, Kayseri. I have rich experience in application develop and integration, also I am good at IFS ERP. I love talking about my profession.</p>"
   list:
     - label: "Age"
-      value: "24"
+      value: "33"
 
     - label: "Residence"
-      value: "USA"
+      value: "TURKEY"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "Kayseri"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "contact me"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "baris.halici@hotmail.com"
 
-  download:
-    text: "Download CV"
-    link: "https://drive.google.com/"
+#  download:
+#    text: "Download CV"
+#    link: "https://drive.google.com/"
 
 ### Services [ services ]
 services:
@@ -254,18 +254,18 @@ team:
           icon: "fab fa-dribbble"
           
 ### Testimonials [ testimonials ]
-testimonials:
-  title: "Testimonials"
-  items:
-    - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+# testimonials:
+#  title: "Testimonials"
+#  items:
+#    - image: "assets/img/testimonials/rev1.jpg"
+#      name: "Helen Floyd"
+#      role: "Art Director"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       
-    - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+#    - image: "assets/img/testimonials/rev1.jpg"
+#      name: "Helen Floyd"
+#      role: "Art Director"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 ### Clients [ clients ]
 clients:
@@ -301,15 +301,15 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "+ (231) 456 67 89"
+      value: "contact me"
 
     - label: "Email"
       icon:  "fas fa-envelope"
-      value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
+      value: "<a href='mailto:baris.halici@hotmail.com'>baris.halici@hotmail.com</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "38080, Kayseri"
     
     - label: "Freelance Available"
       icon: "fas fa-user-tie"

@@ -4,47 +4,57 @@
 
 ### Started Default
 started:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Barış Samed Halıcı</strong>, Senior Full Stack and ERP<br /> Developer Based in Turkey."
   typed:
-    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>desktop/web apps</strong>"
+    - "I code <strong>ERP</strong> integrations"
+    - "I love <strong>IFS</strong>"
     - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "I code cool <strong>websites</strong>"
 
 ### Started Personal
 started-personal:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Barış Samed Halıcı</strong>, Senior Full Stack and ERP<br /> Developer Based in Turkey."
   typed:
-    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>desktop/web apps</strong>"
+    - "I code <strong>ERP</strong> integrations"
+    - "I love <strong>IFS</strong>"
     - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "I code cool <strong>websites</strong>"
   image: "assets/img/man.jpg"
   
 ### Started Image
 started-image:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Barış Samed Halıcı</strong>, Senior Full Stack and ERP<br /> Developer Based in Turkey."
   typed:
-    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>desktop/web apps</strong>"
+    - "I code <strong>ERP</strong> integrations"
+    - "I love <strong>IFS</strong>"
     - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "I code cool <strong>websites</strong>"
   image: "assets/img/started_image_p.jpg"
   
 ### Started Video
 started-video:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Barış Samed Halıcı</strong>, Senior Full Stack and ERP<br /> Developer Based in Turkey."
   typed:
-    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>desktop/web apps</strong>"
+    - "I code <strong>ERP</strong> integrations"
+    - "I love <strong>IFS</strong>"
     - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "I code cool <strong>websites</strong>"
   video: "https://youtu.be/S4L8T2kFFck"
   image: "assets/img/started_image_p.jpg"
   
 ### Started Slider
 started-slider:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Barış Samed Halıcı</strong>, Senior Full Stack and ERP<br /> Developer Based in Turkey."
   typed:
-    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>desktop/web apps</strong>"
+    - "I code <strong>ERP</strong> integrations"
+    - "I love <strong>IFS</strong>"
     - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "I code cool <strong>websites</strong>"
   images:
     - "assets/img/started_image.jpg"
     - "assets/img/started_image2.jpg"
