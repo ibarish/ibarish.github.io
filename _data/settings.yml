@@ -5,7 +5,7 @@
 ### Main Settings
 settings:
   logo_text: "Barış Samed <strong>Halıcı</strong>"
-  # logo_hover_text: "Download <strong>CV</strong>"
+  logo_hover_text: "<strong>Barış Samed</strong> Halıcı"
   quick_colors: "" # select quick color schemes: "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow". If empty colors taken from _sass/ryancv/settings.scss
 
 ### Portfolio Filters Settings
