@@ -6,29 +6,29 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hello! I’m Barış Samed. Senior Full Stack Developer from Turkey, Kayseri. I have rich experience in application develop and integration, also I am good at IFS ERP. I love talking about my profession.</p>"
   list:
     - label: "Age"
-      value: "24"
+      value: "33"
 
     - label: "Residence"
-      value: "USA"
+      value: "TURKEY"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "Kayseri"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "contact me"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "baris.halici@hotmail.com"
 
-  download:
-    text: "Download CV"
-    link: "https://drive.google.com/"
+#  download:
+#    text: "Download CV"
+#    link: "https://drive.google.com/"
 
 ### Services [ services ]
 services:
