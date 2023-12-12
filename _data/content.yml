@@ -254,18 +254,18 @@ team:
           icon: "fab fa-dribbble"
           
 ### Testimonials [ testimonials ]
-testimonials:
-  title: "Testimonials"
-  items:
-    - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+# testimonials:
+#  title: "Testimonials"
+#  items:
+#    - image: "assets/img/testimonials/rev1.jpg"
+#      name: "Helen Floyd"
+#      role: "Art Director"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       
-    - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+#    - image: "assets/img/testimonials/rev1.jpg"
+#      name: "Helen Floyd"
+#      role: "Art Director"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 ### Clients [ clients ]
 clients:
@@ -301,15 +301,15 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "+ (231) 456 67 89"
+      value: "contact me"
 
     - label: "Email"
       icon:  "fas fa-envelope"
-      value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
+      value: "<a href='mailto:baris.halici@hotmail.com'>baris.halici@hotmail.com</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "38080, Kayseri"
     
     - label: "Freelance Available"
       icon: "fas fa-user-tie"
