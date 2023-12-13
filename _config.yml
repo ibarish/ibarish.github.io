@@ -38,6 +38,7 @@ disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.co
 
 # formsubmit.io
 formsubmit_email: "baris.halici@hotmail.com" # sign up on https://formsubmit.io/ and confirm your email
+contact_link: "https://ibarish.github.io/contacts/"
 
 # collections
 collections:
