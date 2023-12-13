@@ -14,6 +14,7 @@
         <!-- form -->
         <div class="contact_form content-box">
             <form id="cform" action="https://formsubmit.io/send/{{ site.formsubmit_email }}" method="POST">
+                <input name="_redirect" type="hidden" value="{{ site.contact_link }}">
                 <div class="group-val">
                     <input type="text" name="name" placeholder="{{ ui_text.full_name }}" id="name" />
                 </div>
