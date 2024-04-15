@@ -609,9 +609,9 @@
 	/*
 		Google Maps
 	*/
-	if($('#map').length) {
+	/*if($('#map').length) {
 		initMap();
-	}
+	}*/
     
     /*
 		Social Share
