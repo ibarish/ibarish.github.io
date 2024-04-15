@@ -656,6 +656,7 @@
 /*
 	Google Map Options
 */
+/*
 function initMap() {
 	var myLatlng = new google.maps.LatLng(48.859003, 2.345275); // <- Your latitude and longitude
 	var styles = [
@@ -738,3 +739,4 @@ function initMap() {
 		title: 'We are here!'
 	});*/
 }
+*/
