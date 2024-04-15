@@ -17,10 +17,12 @@
 -->
 <script src="{{ 'assets/js/disable-devtool.js' | relative_url }}"></script>
 
+{% comment %}
 {% if site.google_maps_api_key != '' %}
 <!-- Google map api -->
 <script src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_api_key }}"></script>
 {% endif %}
+{% endcomment %}
 
 <!-- Main -->
 <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
